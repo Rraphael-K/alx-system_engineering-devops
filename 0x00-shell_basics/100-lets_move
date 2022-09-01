@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [upper]*.h /tmp/u
+mv -u [upper]*.h /tmp/u
