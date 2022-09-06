@@ -1,2 +1,2 @@
 #!/bin/bash
-sort /etc/passwd | gret -c 'bin'
+sort /etc/passwd | gret -c /bin 
